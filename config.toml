@@ -1,5 +1,7 @@
 baseURL = 'https://apostas-brasil.web.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'pt-BR'
+title = 'Guias de apostas esportivas no Brasil'
 theme = 'ananke'
 
+[blackfriday]
+  hrefTargetBlank = true
