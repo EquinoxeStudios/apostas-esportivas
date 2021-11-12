@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://apostas-brasil.web.app/</loc>
+    <lastmod>2021-11-11T21:38:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://apostas-brasil.web.app/posts/new-hugo-blog-post/</loc>
+    <lastmod>2021-11-11T21:38:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://apostas-brasil.web.app/posts/</loc>
+    <lastmod>2021-11-11T21:38:48+02:00</lastmod>
+  </url><url>
+    <loc>https://apostas-brasil.web.app/categories/</loc>
+  </url><url>
+    <loc>https://apostas-brasil.web.app/tags/</loc>
   </url>
 </urlset>
