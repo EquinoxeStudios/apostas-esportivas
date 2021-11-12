@@ -2,6 +2,3 @@ baseURL = 'https://apostas-brasil.web.app/'
 languageCode = 'pt-BR'
 title = 'Guias de apostas esportivas no Brasil'
 theme = 'ananke'
-
-[blackfriday]
-  hrefTargetBlank = true
