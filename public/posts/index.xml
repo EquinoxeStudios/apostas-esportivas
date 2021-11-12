@@ -6,7 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 21:38:48 +0200</lastBuildDate><atom:link href="https://apostas-brasil.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 06:44:07 +0200</lastBuildDate><atom:link href="https://apostas-brasil.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post</title>
+      <link>https://apostas-brasil.web.app/posts/blog-post/</link>
+      <pubDate>Fri, 12 Nov 2021 06:44:07 +0200</pubDate>
+      
+      <guid>https://apostas-brasil.web.app/posts/blog-post/</guid>
+      <description>Test</description>
+    </item>
+    
     <item>
       <title>New Hugo Blog Post</title>
       <link>https://apostas-brasil.web.app/posts/new-hugo-blog-post/</link>
